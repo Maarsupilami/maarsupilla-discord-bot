@@ -25,6 +25,7 @@ hs_err_pid*
 # Maven
 log/
 target/
+dependency-reduced-pom.xml
 
 # Inclusions
 !lib/**
@@ -35,3 +36,4 @@ bin/
 build/
 /bin1/
 java/build/**
+
